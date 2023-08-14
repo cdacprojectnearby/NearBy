@@ -1,0 +1,13 @@
+interview java datastructre .net reactjs html javaSCript
+project
+appti
+
+PROJECT
+ 
+FORNT END----HTML/CSS/JAVASCRIPT--WEBPAGES(HOMEPAGE/USERPAGE/SELLERPAGE/ADMINPAGE/PG/HOSTEL/ROOM....etc)-FILTERS--PHOTOS---DISCRIPTIONS----FORMS(LOGIN/REGISTRATION/BOOKING/PAYMENT/AGGREEMENT TERMS & CONDITIONS/INVOICE)--- 
+
+BACK END--spring Security(authentication page wise)--JDBC connection---database
+
+(15 -08-2023  ---- 18-08-2023)  ----- front end  -- Pravin Nilesh
+
+(15 -08-2023  ---- 18-08-2023)  ----- back end --- Sufiya Pooja
